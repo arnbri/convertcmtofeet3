@@ -1,4 +1,5 @@
 import unittest
+from cm_converter import convert_cm_to_feet
 
 class TestUnitTest(unittest.TestCase):
     def test_tests_work(self):
